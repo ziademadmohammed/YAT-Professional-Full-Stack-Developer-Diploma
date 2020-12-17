@@ -35,9 +35,6 @@ To get started:
    Now you should be able to see the project running at localhost:8080.
 
 
-## Play with it on CodeSandbox
-
-A CodeSandbox version of this playground [is one click away](https://codesandbox.io/s/github/tailwindcss/playground/tree/master)!
 
 ## Building for production
 
